@@ -1,0 +1,75 @@
+[
+    {
+        
+        "nombre": "Resident Evil",
+        "id": 1,
+        "genre": "Survival Horror",
+        "price": 250,
+        "imgUrl": "http://2.bp.blogspot.com/-c3zVpbk5tfA/VL0mieXksvI/AAAAAAAAQtQ/4uVyCxqPN6k/s1600/resident-evil.jpg"
+    },
+    {
+        "nombre": "Uncharted 3: Drake's deception",
+        "id": 2,
+        "genre": "Accion-aventura",
+        "price": 1200,
+        "imgUrl": "https://www.hd-tecnologia.com/imagenes/articulos/2019/08/Aqu%C3%AD-est%C3%A1n-Uncharted-3-y-The-Last-Of-Us-corriendo-en-PC-con-la-%C3%BAltima-versi%C3%B3n-de-RPCS3.jpg"
+    },
+    {
+        "nombre": "Devil May Cry 3",
+        "id": 3,
+        "genre": "Hack n slash",
+        "price": 1300,
+        "imgUrl": "https://i.ytimg.com/vi/1dXTpeANgGo/maxresdefault.jpg"
+    },
+    {
+        "nombre": "Resident Evil 4",
+        "id": 4,
+        "genre": "Survival Horror y Accion",
+        "price": 650,
+        "imgUrl": "https://phantom-marca.unidadeditorial.es/0e25d0867963f4f5a53e49fd57f28cc3/resize/1320/f/jpg/assets/multimedia/imagenes/2021/09/27/16327451990851.jpg"
+    },
+    {
+        "nombre": "God Of War",
+        "id": 5,
+        "genre": "Hack n Slash y Puzzles",
+        "price": 6200,
+        "imgUrl": "https://cdn.akamai.steamstatic.com/steam/apps/1593500/capsule_616x353.jpg?t=1642526157"
+    },
+    {
+        "nombre": "Call Of Duty: Modern Warfare 2",
+        "id": 6,
+        "genre": "fps",
+        "price": 4500,
+        "imgUrl": "https://phantom-marca.unidadeditorial.es/5a63ce6030006c77945628d0d67c426c/resize/1320/f/jpg/assets/multimedia/imagenes/2022/06/07/16546329958064.jpg"
+    },
+    {
+        "nombre": "The Witcher 3: Wild Hunt",
+        "id": 7,
+        "genre": "Mundo abierto y Rpg",
+        "price": 950,
+        "imgUrl": "https://cdn.akamai.steamstatic.com/steam/apps/292030/header.jpg?t=1668443314"
+    },
+    {
+        "nombre": "The Elders Scrolls V: Skyrim",
+        "id": 8,
+        "genre": "Mundo abierto y Rpg",
+        "price": 1200,
+        "imgUrl": "https://cdn.akamai.steamstatic.com/steam/apps/489830/header.jpg?t=1650909796"
+    },
+    {
+        "nombre": "Hollow Knight",
+        "id": 9,
+        "genre": "Metroidvania",
+        "price": 400,
+        "imgUrl": "https://cdn.akamai.steamstatic.com/steam/apps/367520/capsule_616x353.jpg?t=1667006028"
+    },
+    {
+        "nombre": "The Forest",
+        "id": 10,
+        "genre": "Terror y Supervivencia",
+        "price": 600,
+        "imgUrl": "https://i.ytimg.com/vi/6R9zo30Vpao/maxresdefault.jpg"
+    }
+
+
+]
